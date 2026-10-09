@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@resource-id=\"com.fdc_machetalk_broadcaster:id/tab_title\" and @text=\"自分の投稿\"]"
+}
