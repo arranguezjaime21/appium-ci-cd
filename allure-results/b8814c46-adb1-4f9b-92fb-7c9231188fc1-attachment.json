@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[@resource-id=\"com.fdc_machetalk_broadcaster:id/tabMenu\"]/android.widget.LinearLayout/android.widget.LinearLayout[4]"
-}

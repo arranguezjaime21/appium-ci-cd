@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test:timeline": "wdio run ./config/wdio.conf.js --spec ./src/tests/timeline.spec.js",
+    "test:login": "wdio run ./config/wdio.conf.js --spec ./src/tests/login.spec.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "wdio": "wdio run ./wdio.conf.js"
   },

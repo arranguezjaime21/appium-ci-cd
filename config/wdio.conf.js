@@ -18,6 +18,7 @@ export const config = {
         "platformName": "Android",
         "appium:automationName": "UiAutomator2",
         "appium:deviceName": environment.deviceName,
+        "appium:udid": environment.deviceUdid,
         "appium:appPackage": environment.appPackage,
         "appium:appActivity": environment.appActivity,
         "appium:noReset": true,
@@ -25,7 +26,7 @@ export const config = {
     }],
 
     
-    logLevel: 'info',
+    logLevel: 'error',
   
     bail: 0,
  
